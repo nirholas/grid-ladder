@@ -1,0 +1,30 @@
+{
+  "name": "grid-ladder",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A pool that quotes a bid and an ask, like a market maker, instead of one price both ways.",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nirholas/grid-ladder.git"
+  },
+  "homepage": "https://grid-ladder.pages.dev",
+  "keywords": [
+    "uniswap",
+    "uniswap-v4",
+    "uniswap-hooks",
+    "defi",
+    "amm",
+    "solidity",
+    "curve",
+    "custom-curve",
+    "market-making",
+    "spread",
+    "inventory"
+  ],
+  "scripts": {
+    "build": "node web/build.mjs",
+    "contracts:build": "forge build",
+    "contracts:test": "forge test"
+  }
+}
