@@ -1,0 +1,19 @@
+{
+  "name": "grid-ladder",
+  "version": "1.0.0",
+  "description": "GridLadderHook Uniswap v4 hook: build, test, configure and deploy it with a mined CREATE2 salt.",
+  "author": {
+    "name": "nirholas"
+  },
+  "repository": "https://github.com/nirholas/grid-ladder",
+  "license": "Apache-2.0",
+  "keywords": [
+    "uniswap-v4",
+    "hooks",
+    "solidity",
+    "foundry",
+    "curve",
+    "custom-curve",
+    "market-making"
+  ]
+}
