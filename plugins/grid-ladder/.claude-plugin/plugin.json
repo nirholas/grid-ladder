@@ -6,6 +6,7 @@
     "name": "nirholas"
   },
   "repository": "https://github.com/nirholas/grid-ladder",
+  "homepage": "https://grid-ladder.pages.dev",
   "license": "Apache-2.0",
   "keywords": [
     "uniswap-v4",
