@@ -1,0 +1,23 @@
+{
+  "name": "grid-ladder",
+  "owner": {
+    "name": "nirholas"
+  },
+  "description": "GridLadderHook Uniswap v4 hook: build, test, configure and deploy it with a mined CREATE2 salt.",
+  "plugins": [
+    {
+      "name": "grid-ladder",
+      "source": "./",
+      "description": "GridLadderHook Uniswap v4 hook: build, test, configure and deploy it with a mined CREATE2 salt.",
+      "tags": [
+        "uniswap-v4",
+        "hooks",
+        "solidity",
+        "foundry",
+        "curve",
+        "custom-curve",
+        "market-making"
+      ]
+    }
+  ]
+}
